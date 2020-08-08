@@ -122,7 +122,7 @@ print  """\033[1;91m
                      ▇▇◣◥▅▅▅◤◢▇▇
                      ▇▇▇◣╲▇╱◢▇▇▇
                      ▇▇▇▇◣▇◢▇▇▇▇
-                   WhatsApp : 03124788959
+                   WhatsApp : 03099127125
 \033[1;96mAuthor  \033[1;93m: \033[1;92mKomail Khan
 \033[1;96mInstagram \033[1;93m: \033[1;92mitx_muskan_yr
 \033[1;96mFacebook  \033[1;93m: \033[1;92m komail.khan.3781
@@ -130,8 +130,8 @@ print  """\033[1;91m
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "komail"
-CorrectPassword = "khan"
+CorrectUsername = musawirabro
+CorrectPassword = "musawirabro
 
 loop = 'true'
 while (loop == 'true'):
